@@ -1,7 +1,7 @@
 # Rock Paper Scissors Game Using Machine Vision
 
 
-This is a simple scissors, paper rock game where the user input is got from the 
+This is a simple scissors, paper rock game where the user input is taken from the 
 Computer's Deafult Camera and position of hand is analyzed to detect scissiors, papers 
 or rocks position. 
 The rsp(rock, scissiors, paper) of the computer's move is randomly selected. 
