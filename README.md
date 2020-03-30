@@ -8,8 +8,8 @@ The rsp(rock, scissiors, paper) of the computer's move is randomly selected.
 
 It contains two files 
 
-1. <h6>Main.ipynd</h6> It contains the code to train a model and save that model
-2. <h6>game.ipynd</h6> This contains the model load and other simple game logic. 
+1. <h6>Main.ipynb</h6> It contains the code to train a model and save that model
+2. <h6>game.ipynb</h6> This contains the model load and other simple game logic. 
 
 Feel Free to Clone the file and try it yourself. 
 
